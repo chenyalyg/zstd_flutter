@@ -6,6 +6,10 @@ zstd flutter packaging library
 
 View example project
 
+## Install
+
+zstd_flutter: ^0.0.1
+
 ## Reference Library
 
 https://github.com/luben/zstd-jni
